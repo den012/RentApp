@@ -1,48 +1,55 @@
-Logo from <a href="https://www.textstudio.com/">Font generator</a>
+# 🏠 Rent App
+
+Welcome to Rent App! This is a web application built with React and Node.js, with Puppeteer integration to fetch rental listings and display them based on price range.
+
+## Overview 🚀
+
+Rent App fetches rental listings using Puppeteer and displays them in a user-friendly interface. It helps users find rental properties that fit their budget.
+
+## Features ✨
+
+- **Fetch Rents**: 📝 Utilizes Puppeteer to scrape rental listings from various sources.
+- **Filter by Price Range**: 💰 Allows users to filter rental properties based on their preferred price range.
+- **Sort Listings**: 🔍 Sorts listings between two price ranges for easy comparison.
+
+## Installation 🛠️
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/den012/RentApp.git
+```
+
+2. Install the dependencies:
+
+```bash
+cd demoApp
+npm install
+
+cd puppeteer
+npm install
+```
+
+3. Run the application:
+
+```bash
+Start the server:
+node server.js
+
+Start the client:
+npm run dev
+```
+
+# DEMO soon
+
+## Technologies Used
+
+- React
+- Node.js
+- Puppeteer
+- Tailwind CSS
 
 
-Alba
-Arad
-Arges
-Bacau
-Bihor
-Bistrita-Nasaud
-Botosani
-Braila
-Brasov
-Bucuresti
-Buzau
-Calarasi
-Caras-Severin
-Cluj
-Constanta
-Covasna
-Dambovita
-Dolj
-Galati
-Giurgiu
-Gorj
-Harghita
-Hunedoara
-Ialomita
-Iasi
-Maramures
-Mehedinti
-Mures
-Neamt
-Olt
-Prahova
-Salaj
-Satu Mare
-Sibiu
-Suceava
-Teleorman
-Timis
-Tulcea
-Valcea
-Vaslui
-Vrancea
+## Contributing 🤝
 
-
-dataarad.json
-dataarad.json
+Contributions are welcome! Feel free to open a pull request or create an issue if you find any bugs or have suggestions for improvements.
