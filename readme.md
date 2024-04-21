@@ -41,9 +41,11 @@ npm run dev
 ```
 
 # DEMO 📸
+<div align="center">
 ![Demo](demo/landing.png)
 ![Demo](demo/loading.png)
 ![Demo](demo/rents.png)
+</div>
 
 
 ## Technologies Used
