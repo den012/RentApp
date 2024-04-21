@@ -42,9 +42,9 @@ npm run dev
 
 # DEMO 📸
 <div align="center">
-    <img src="landing.png" width="250" alt="Image 1">
-    <img src="loading.png" width="250" alt="Image 2">
-    <img src="rents.png" width="250" alt="Image 3">
+    <img src="demo/landing.png" width="350" alt="Image 1">
+    <img src="demo/loading.png" width="350" alt="Image 2">
+    <img src="demo/rents.png" width="350" alt="Image 3">
 </div>
 
 
