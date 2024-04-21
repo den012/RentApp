@@ -40,7 +40,11 @@ Start the client:
 npm run dev
 ```
 
-# DEMO soon
+# DEMO 📸
+![Demo](demo/landing.png)
+![Demo](demo/loading.png)
+![Demo](demo/rents.png)
+
 
 ## Technologies Used
 
